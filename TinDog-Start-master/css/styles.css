@@ -1,0 +1,160 @@
+h1{
+  line-height: 150%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.dwd{
+  margin: 5% 3% 5% 0;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+  padding-top: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+.fa-solid{
+  color: #ef8172;
+}
+
+.med:hover{
+  color: #ff4c68;
+}
+
+.med-text{
+  color: #81818f;
+}
+
+.med-top-text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.med{
+  padding-bottom: 10%;
+}
+
+h3{
+  font-size: 100%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.iconset{
+  width: 20%;
+}
+
+#features{
+  text-align: center;
+  padding: 15%;
+  background-color: #fff5e3;
+}
+
+#testimonials{
+  background-color: #ef8172;
+  text-align: center;
+}
+
+.testimonial-image{
+  border-radius: 60%;
+  text-align: center;
+  width: 12%;
+}
+
+.testimonial-text{
+  text-align: center;
+  display: inline-block;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  padding: 10% 10% 5% 10%;
+}
+
+.logos{
+  padding: 10% 0 3% 0;
+}
+
+.card-body {
+  padding: 0;
+  text-align: center;
+}
+
+.lst{
+  display: inline-block;
+}
+
+.imdb{
+  display: block;
+  padding: 2% 0 15% 0;
+}
+
+.final-top-txt{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+#pricing{
+  text-align: center;
+  background-color: #fff;
+}
+
+.card-in-txt{
+  padding: 10% 10% 2% 10%;
+}
+
+.grid-btn{
+  width: 40%;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.grid-btn-external{
+  text-align: center;
+  padding-bottom: 7%;
+}
+
+.fnt-change{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+em{
+  color: white;
+}
